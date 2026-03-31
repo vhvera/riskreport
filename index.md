@@ -16,9 +16,11 @@ A guide for patients and clinicians to understand health through biomarkers
 
 ## Introduction
 
-Blood test results can be overwhelming. You are often presented with significant information, yet not enough to truly understand what is important. Voloridge Health (VH) created this guide as a resource to help individuals and their care providers interpret lab test data. The guide contains ranges of values for biomarkers and age-related diseases. These ranges aim to provide clarity when reviewing blood test results.
+For patients, laboratory test results can be overwhelming. A lack of interpretive context and patient understanding often can eclipse the signifiance of critical health results. Clinicians face challenges integrating rapidly expanding medical evidence with clinical practice, creating a research-to-practice gap impeding optimal care. The Voloridge Health (VH) Biomarker Reference Guide (BRG) is intended as an aid for understanding and evaluating laboratory test results and their impact on current health within six health domains, including longevity. This guide contains Voloridge Modeled Range (VMR) values for biomarkers and age-related illnesses, to provide clarity when reviewing blood test results. 
 
-This guide explores seven common age-associated, disease-related outcomes related to cardiac, metabolic, lung, liver, kidney, cognitive, and all-cause mortality. The VH team chose these outcomes based on the prevalence and individual impacts on aging and mortality.
+The six health domains in this current version of the BRG were selected based on their prevalence and individual impact on aging, overall health, and wellness. The guide explores age-associated health domains including cardiovascular, kidney, metabolic, brain, inflammation, and longevity. 
+
+Patients should seek advice from a qualified healthcare professional with any questions regarding diagnosis, cure, treatment, mitigation, or prevention of any disease, other medical condition, or impariment of the status of heatlh. The Voloridge Health Biomarker Reference Guide does not account fofr all important factors linked to health, and therefore cannot rule out th presence or ansence of disease or other medical conditions. 
 
 ## What is a biomarker?
 
