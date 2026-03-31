@@ -26,26 +26,27 @@ Patients should seek advice from a qualified healthcare professional with any qu
 
 The first step to understanding your bloodwork is recognizing what a blood test is collecting and measuring. A biomarker, or biological marker, is a measurable indicator of a biological process or condition in your body.[[1]](#ftn1)  One of the most common ways to measure certain biomarkers is through blood tests, if the biomarker is present in your blood.
 
+VH uses biomarker data from a large population data set (the UK Biobank). VH uses this data and additional information collected by the UK Biobank to calculate Volo Scores and prevalence multipliers that may help reduce the risk of, or prevalence of, chronic disease in cardiovascular, kidney, metabolic, brain, inflammation, and longevity domains. 
 
-Biomarkers offer insights into your health, including early detection of diseases. A simple blood test can provide valuable information about your risk for heart (cardiac) disease, liver disease, mortality, and more.[[2]](#ftn2)  Understanding what biomarkers reveal about your personal health is the key to an accurate interpretation of your blood test results. To assist with this challenge, we present information in this guide in the form of risk multipliers and Voloridge Modeled Range values or VMR values.
+We focus on the application of biomarker data to forecast long-term health outcomes and provide a Volo Score for each domain listed above. Providing these scores gives patients and clinicians the opportunity to improve health by focusing on healthy lifestyles, encouraging well-understood, healthy choices to reduce the impact of adverse outcomes. This approach may assist with scaling preventive services and improving population heatlh outcomes. To aid in this challenge, we present information in the form of prevalence multipliers and VMRs.
 
 
-## What is a risk multiplier?
 
-A risk multiplier represents the association between biomarker values and future incidence of a disease. The biomarker range associated with the lowest incidence is assigned a risk multiplier of 1. After that, if for example a biomarker range has a 40% increase in incidence, it would have a value of 1.4. All risk multiplier values are separated by gender and represent relative incidence of the disease compared to others your age.
+## What is a prevalence multiplier?
+
+The biomarker prevalence multiplier is a metric measuring the desgree to which an individual's biomarker value is impacting the health domain and provides insights into whether an individual is at increased or decreased prevalence of adverse health outcomes, when compared with a peer population. Prevalence multiplier values above 1.0 indicate increased prevalence, whereas values below 1.0 indicate decreased prevalence. As an example, an individual biomarker with a prevalence multiplier of 1.4 indicates 40% increased prevalence of associated diseases and adverse outcomes of a health domain within a 15-year timespan, compared to peers of the same age and sex. 
+
 
 ![riskmultiplier](/assets/images/riskmultiplier.png)
 
 ## What is a VMR value?
 
-Reference ranges typically provided with blood test results are population based. In contrast, the Voloridge Modeled Range or VMR is the range of a single biomarker's values associated with the lowest future incidence of diseases. Because there are multiple disease groups, the VMRs are based on a weighted average incidence of the major disease groups addressed in this guide. Because the VMRs are calculated directly by Voloridge Health's models based on a specific data set, and not designed to be medical recommendations, these values may differ from what you see as reference ranges with a blood test result.
-
-
+Reference ranges typically provided with blood test results are population based. In contrast, the Voloridge Modeled Range or VMR is the range of a single biomarker's values associated with the lowest future incidence of adverse outcomes in a health domain. Because there are multiple health domains, the VMRs are based on a weighted average incidence of the major adverse outcomes within each domain addressed in this guide. Because the VMRs are calculated directly by Voloridge Health's models based on a specific data set, and not designed to be medical recommendations, these values may differ from what you see as reference ranges with a blood test result.
 
 
 ## What makes Voloridge Health different?
 
-Many traditional models focus on an individual predictor and its relationship to a single outcome. An example of this is measuring cholesterol and its relationship to heart disease. Furthermore, ranges typical in medical literature are based on clinical recommendations and/or population averages rather than connecting biomarkers with longer-term health outcome probabilities. In contrast, Voloridge Health examines many health predictors across multiple potential disease outcomes together. Our VMR values are based on real data associations between biomarker ranges and 15-year disease outcomes. By evaluating each health predictor in an unbiased manner, we derive a fully data-driven, long-term view of health risks. This guide is designed to help you see patterns single-variable studies might miss, supporting a proactive and holistic approach to healthcare.
+Many traditional models focus on an individual predictor and its relationship to a single outcome. An example of this is measuring cholesterol and its relationship to heart disease. Furthermore, ranges typical in medical literature are based on clinical recommendations and/or population averages rather than connecting biomarkers with longer-term health outcome probabilities. In contrast, Voloridge Health examines many health predictors across multiple potential adverse outcomes together. Our VMR values are based on real data associations between biomarker ranges and 15-year adverse outcomes. By evaluating each health predictor in an unbiased manner, we derive a fully data-driven, long-term view of health. This guide is designed to help you see patterns single-variable studies might miss, supporting a proactive and holistic approach to healthcare.
 
 ## Predictive strength
 
