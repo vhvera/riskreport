@@ -50,7 +50,7 @@ Many traditional models focus on an individual predictor and its relationship to
 
 ## Predictive strength
 
-Another way Voloridge Health evaluates how biomarkers can predict health is with a predictive strength value. This metric demonstrates how strongly each biomarker correlates with a specific disease. In the *VMR Values by Disease* section of this guide, the biomarkers are colored with a gradient as illustrated in the graphic below. White represents a lower strength, while green represents a higher strength.
+Another way Voloridge Health evaluates how biomarkers can predict health is with a predictive strength value. This metric demonstrates how strongly each biomarker correlates with a specific outcome. In the *VMR Values by Disease* section of this guide, the biomarkers are colored with a gradient as illustrated in the graphic below. White represents a lower strength, while green represents a higher strength.
 
 ![riskmultiplier](/assets/images/pstrength.png)
 
@@ -59,7 +59,7 @@ Additionally, you can find all biomarkers and their predictive strength values i
 
 ## Disease definitions
 
-Some diseases are defined by comparing specific biomarker levels to established thresholds. For example, type 2 diabetes is typically diagnosed if Hemoglobin A1C levels are at or above 6.5 percent.[[3]](#ftn3) In this case, a risk multiplier is no longer meaningful, given the likelihood someone is diagnosed with such a disease is nearly 100 percent if their biomarker value passes that threshold. However, for the purpose of this guide, values are provided for such biomarkers regardless of these definitions, to maintain consistency and show data trends.
+Some outcomes are defined by comparing specific biomarker levels to established thresholds. For example, type 2 diabetes, which falls under metabolic health, is typically diagnosed if Hemoglobin A1C levels are at or above 6.5 percent.[[3]](#ftn3) In this case, a prevalence multiplier is no longer meaningful, given the likelihood someone who is diagnosed with type 2 diabetes is nearly 100 percent if their biomarker value passes that threshold. However, for the purpose of this guide, values are provided for such biomarkers regardless of these definitions, to maintain consistency and show data trends.
 
 
 ## Disclaimer
