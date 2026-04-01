@@ -20,7 +20,7 @@ For patients, laboratory test results can be overwhelming. A lack of interpretiv
 
 The six health domains in this current version of the BRG were selected based on their prevalence and individual impact on aging, overall health, and wellness. The guide explores age-associated health domains including cardiovascular, kidney, metabolic, brain, inflammation, and longevity. 
 
-Patients should seek advice from a qualified healthcare professional with any questions regarding diagnosis, cure, treatment, mitigation, prevention of any disease, other medical condition, or impairment of the status of heatlh. The Voloridge Health Biomarker Reference Guide does not account for all important factors linked to health, and therefore cannot rule out the presence or absence of disease or other medical conditions. 
+Patients should seek advice from a qualified healthcare professional with any questions regarding diagnosis, cure, treatment, mitigation, prevention of any disease, other medical condition, or impairment of the status of heatlh. The Voloridge Health Biomarker Reference Guide does not account for all important factors linked to health, and therefore cannot rule out the presence or absence of disease or other medical conditions.  
 
 ## What is a biomarker?
 
